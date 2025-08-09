@@ -5,3 +5,4 @@ This project converts MP3 audio files into text transcriptions using [OpenAI Whi
 ## 📌 Features
 
 - Convert MP3 to WAV automatically
+- Transcribe speech to text using Whisper
