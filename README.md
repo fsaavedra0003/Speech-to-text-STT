@@ -8,3 +8,5 @@ This project converts MP3 audio files into text transcriptions using [OpenAI Whi
 - Transcribe speech to text using Whisper
 - Save transcription as `.txt` in the `transcriptions/` folder
 - Works with any MP3 file (podcasts, interviews, meetings, etc.)
+
+---
