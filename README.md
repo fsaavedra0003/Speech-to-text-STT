@@ -11,5 +11,7 @@ It is designed to support a wide variety of audio inputs such as podcasts, inter
 - Transcribe speech to text using Whisper
 - Save transcription as `.txt` in the `transcriptions/` folder
 - Works with any MP3 file (podcasts, interviews, meetings, etc.)
+- **Simple integration**: Minimal setup and dependencies, making it easy to incorporate into larger workflows or deploy as a standalone tool.
+
 
 ---
