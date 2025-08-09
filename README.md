@@ -1,6 +1,9 @@
 # 🎙️ MP3 to Text (Speech-to-Text) Transcription Tool
 
-This project converts MP3 audio files into text transcriptions using [OpenAI Whisper](https://github.com/openai/whisper).
+This project provides an easy-to-use pipeline to convert spoken audio in MP3 format into accurate text transcriptions. Leveraging the state-of-the-art [OpenAI Whisper](https://github.com/openai/whisper) speech recognition model, the tool handles audio preprocessing, transcription, and output generation automatically.
+
+It is designed to support a wide variety of audio inputs such as podcasts, interviews, lectures, meeting recordings, and any other MP3 audio containing human speech. By converting audio to text, this project enables applications like content indexing, searchable archives, subtitle generation, and further natural language processing.
+
 
 ## 📌 Features
 
