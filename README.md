@@ -13,7 +13,7 @@ It is designed to support a wide variety of audio inputs such as podcasts, inter
 - Works with any MP3 file (podcasts, interviews, meetings, etc.)
 - **Simple integration**: Minimal setup and dependencies, making it easy to incorporate into larger workflows or deploy as a standalone tool.
 - **Extensible architecture**: Designed to allow future enhancements like speaker diarization, punctuation restoration, and sentiment analysis.
-- Multi language support 
+- Multi language support in different languages
 
 
 ---
