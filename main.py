@@ -12,7 +12,7 @@ def transcribe_audio(file_path):
     return result["text"]
 
 
-#this is the path for the audio that will be transcribed
+#This is the path for the audio that will be transcribed
 if __name__ == "__main__":
     mp3_path = "audio_samples/example.mp3"
     wav_path = "audio_samples/example.wav"
